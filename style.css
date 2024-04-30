@@ -73,12 +73,13 @@ body {
 }
 .aba-conteudo.ativo{
   display: block;
+  width: 100%;
 }
 
 
 .aba-conteudo{
   display: none;
-  width: 100%;
+
 }
 
 .aba-conteudo-titulo-principal{
